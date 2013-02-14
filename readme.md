@@ -6,10 +6,10 @@
 
 ### Version 0.1: 
 * Open the application
-    *Select the video device with the first menu*
-    *Select the video input with the second menu*
-    *clic on the [open] button*
-    *clic on the [settings] button to access to the device driver options*
+    *Select the video device with the first menu*     
+    *Select the video input with the second menu*      
+    *clic on the [open] button*      
+    *clic on the [settings] button to access to the device driver options*      
 
 # Licence
 ## Credits : 
