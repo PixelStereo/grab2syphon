@@ -5,7 +5,7 @@
 ## Change Log : 
 
 ### Version 0.1: 
-* Open the application
+* Open the application    
     *Select the video device with the first menu    
     *Select the video input with the second menu     
     *clic on the [open] button   
