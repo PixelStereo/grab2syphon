@@ -1,6 +1,6 @@
 # grab2syphon 0.1
----
-## Simple app to export media from a fcol files made with VDMX
+
+## Grab a live camera feed and send it through syphon
 
 ## Change Log : 
 
